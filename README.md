@@ -1,6 +1,7 @@
 - 👋 Hi, I’m David Pinheiro!
-- 👀 I’m interested in front-end projects
-- 🌱 I’m currently studying IT Engineering in Portugal
+- 👀 Interested in front-end projects
+- 🌱 Studying IT Engineering in Portugal
+- 📕 Currently an Erasmus Exchange Student at TH Brandenburg - Germany
 - 📫 You can reach me at davidaspinheiro@gmail.com
 
 
